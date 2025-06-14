@@ -1,6 +1,6 @@
-api_id = 22779671
-api_hash = "125d8d88b77309dc3b154cbbfc2dacb2"
-bot_token = "6948815452:AAHLdIf8gKLDp_MMkt8iSJ6wLOTdsAsIq-I"
+api_id = 22877961  
+api_hash = "01b4a2f33d106880b4524073ef2242ea"
+bot_token = " "
 auth_users = [1713924419]
 sudo_user = 1713924419
 log_channel = -1002143629860
